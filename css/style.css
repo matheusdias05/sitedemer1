@@ -1,0 +1,40 @@
+body {
+    background-color: rgba(0, 0, 0, 0.088);
+    font-family: 'Kanit', sans-serif;
+}
+
+.fundo-menu {
+    background-color: rgba(0, 0, 0, 0.088);
+}
+
+#bottom:hover {
+    color: #dc143c;
+}
+
+.fundo-principal {
+    min-height: 60vh;
+    background-color: #dc143c;
+}
+
+.fundo-rodape {
+    margin: 110px 0px 110px 0px;
+}
+
+.fundo-principal-videos {
+    margin-top: 40px;
+}
+
+.cor-accordion {
+    background-color: #dc143c;
+}
+
+.tam-img {
+    height: 400px;
+    width: 700px;
+    border-radius: 60px;
+}
+
+.icon {
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.708);
+}
